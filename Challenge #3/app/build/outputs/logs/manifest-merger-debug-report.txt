@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.databinding:adapters:3.3.0] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\adapters-3.3.0.aar\3047a82fbe339b880d84d938e2903f96\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.3.0] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\library-3.3.0.aar\b08eca62dcb3c3c687c0a66601b00aa2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\c315ebd1c83e5eedacaa81a335381d44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\33dad3a75a860f8017769d98a9c717d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\fe581f20172bd3a1dea53d3e340c7a9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\80b839d6bdb4c98b0681cc45b1bddc11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\26e4eeb3eae2fdcbb8e12557a0027f20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\ed0eb541257fb0cafd82bc658a13921a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\1c885b30514683053a0e27f597d5c33b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc57f44d2daee9c37b66e40ef5c6d143\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\2cdcbbd978621a1f3d023dd0538b16e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b092e594907844ba55f022a03e04bd50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\df364d4fa5c0e3007fbf8275a68c0d40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\45aba0bdf5115f926450110736405e4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ee97e16ed2e0bd3c061ab52c5dffc1e5\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:5:5-22:19
+	android:supportsRtl
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.myhexaville.login.MainActivity
+ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:11:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:14:13-49
+	android:label
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.3.0] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\adapters-3.3.0.aar\3047a82fbe339b880d84d938e2903f96\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.3.0] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\adapters-3.3.0.aar\3047a82fbe339b880d84d938e2903f96\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.0] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\library-3.3.0.aar\b08eca62dcb3c3c687c0a66601b00aa2\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.0] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\library-3.3.0.aar\b08eca62dcb3c3c687c0a66601b00aa2\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\c315ebd1c83e5eedacaa81a335381d44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\c315ebd1c83e5eedacaa81a335381d44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\33dad3a75a860f8017769d98a9c717d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\33dad3a75a860f8017769d98a9c717d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\fe581f20172bd3a1dea53d3e340c7a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\fe581f20172bd3a1dea53d3e340c7a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\80b839d6bdb4c98b0681cc45b1bddc11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\80b839d6bdb4c98b0681cc45b1bddc11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\26e4eeb3eae2fdcbb8e12557a0027f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\26e4eeb3eae2fdcbb8e12557a0027f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\ed0eb541257fb0cafd82bc658a13921a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\ed0eb541257fb0cafd82bc658a13921a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\1c885b30514683053a0e27f597d5c33b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\1c885b30514683053a0e27f597d5c33b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc57f44d2daee9c37b66e40ef5c6d143\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc57f44d2daee9c37b66e40ef5c6d143\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\2cdcbbd978621a1f3d023dd0538b16e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\2cdcbbd978621a1f3d023dd0538b16e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b092e594907844ba55f022a03e04bd50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b092e594907844ba55f022a03e04bd50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\df364d4fa5c0e3007fbf8275a68c0d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\df364d4fa5c0e3007fbf8275a68c0d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\45aba0bdf5115f926450110736405e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\45aba0bdf5115f926450110736405e4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ee97e16ed2e0bd3c061ab52c5dffc1e5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\M.K\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ee97e16ed2e0bd3c061ab52c5dffc1e5\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\M.K\Desktop\Challege3\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
